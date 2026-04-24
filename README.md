@@ -1,7 +1,3 @@
-Universal Software Engineer Pro🚀
-Gem personalizada
-Entendido, vamos a dejarlo enfocado 100% en el producto y su utilidad. Aquí tienes un README limpio que resalta las funciones de la aplicación para cualquier usuario o cliente interesado:
-
 🚗 Lavadero Hijos de Dios - App de Gestión
 Una solución móvil robusta diseñada para digitalizar y optimizar la operación diaria de lavaderos de vehículos. Esta aplicación permite pasar del registro en papel a un control digital preciso, mejorando la organización y el servicio al cliente.
 
@@ -37,5 +33,4 @@ Lenguaje: Dart.
 
 👤 Desarrollado por
 Tony B.
-
 Solución digital creada para la modernización de procesos en el sector automotriz.
